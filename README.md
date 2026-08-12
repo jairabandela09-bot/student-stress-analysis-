@@ -14,4 +14,4 @@ Analysis Includes:
 - Interpretation of unexpected data patterns
 - Discussion of potential dataset limitations
 
-Find CV at: https://www.kaggle.com/datasets/arpitabhaskar/student-stress-sleep-and-screen-time-dataset?resource=download 
+Find CSV at: https://www.kaggle.com/datasets/arpitabhaskar/student-stress-sleep-and-screen-time-dataset?resource=download 
